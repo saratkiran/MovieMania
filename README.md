@@ -1,2 +1,0 @@
-# MovieMania
-Created with CodeSandbox
